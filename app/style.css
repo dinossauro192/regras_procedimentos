@@ -1,1 +1,11 @@
-body{padding:4%}table,th,td{border:1px solid #000;text-align:center}table{border-collapse:collapse}h1{text-align:center;font-family:Impact,Haettenschweiler,'Arial Narrow Bold',sans-serif;justify-content:center}
+body{
+    padding: 4%;
+}
+table,th,td{border: 1px solid #000;
+    text-align: center;}   
+    table{border-collapse: collapse ;}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    justify-content: center;
+}   
